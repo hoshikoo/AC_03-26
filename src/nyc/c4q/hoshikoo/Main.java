@@ -19,13 +19,8 @@ public class Main {
             if (num == -2){
                 break;
             }else{
-                if (num ==-1){
-                    numberList.clear();
 
-                }else{
-                    numberList.add(num);
-                }
-
+                numberList.add(num);
             }
 
 
